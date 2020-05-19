@@ -73,75 +73,72 @@
 
 ## [PARTY] [COMMANDS: 18]
 
-[2020-05-18 11:02:51]: LOG [PARTY] Loading Command: color.js
+Command: color
 
-[2020-05-18 11:02:51]: LOG [PARTY] Loading Command: ctl.js
+Command: ctl
 
-[2020-05-18 11:02:51]: LOG [PARTY] Loading Command: demote.js
+Command: demote
 
-[2020-05-18 11:02:51]: LOG [PARTY] Loading Command: global.js
+Command: global
 
-[2020-05-18 11:02:51]: LOG [PARTY] Loading Command: info.js
+Command: info
 
-[2020-05-18 11:02:51]: LOG [PARTY] Loading Command: invite.js
+Command: invite
 
-[2020-05-18 11:02:51]: LOG [PARTY] Loading Command: join.js
+Command: join
 
-[2020-05-18 11:02:51]: LOG [PARTY] Loading Command: kick.js
+Command: kick
 
-[2020-05-18 11:02:51]: LOG [PARTY] Loading Command: link.js
+Command: link
 
-[2020-05-18 11:02:51]: LOG [PARTY] Loading Command: list.js
+Command: list
 
-[2020-05-18 11:02:51]: LOG [PARTY] Loading Command: lock.js
+Command: lock
 
-[2020-05-18 11:02:51]: LOG [PARTY] Loading Command: name.js
+Command: name
 
-[2020-05-18 11:02:51]: LOG [PARTY] Loading Command: owner.js
+Command: owner
 
-[2020-05-18 11:02:51]: LOG [PARTY] Loading Command: party.js
+Command: party
 
-[2020-05-18 11:02:51]: LOG [PARTY] Loading Command: promote.js
+Command: promote
 
-[2020-05-18 11:02:51]: LOG [PARTY] Loading Command: sudo.js
+Command: sudo
 
-[2020-05-18 11:02:51]: LOG [PARTY] Loading Command: unlink.js
+Command: unlink
 
-[2020-05-18 11:02:51]: LOG [PARTY] Loading Command: unlock.js
+Command: unlock
 
-[2020-05-18 11:02:51]: LOG [CATGEORY] [SYSTEM] [COMMANDS: 18]
+## [SYSTEM] [COMMANDS: 18]
 
-[2020-05-18 11:02:51]: LOG [SYSTEM] Loading Command: about.js
+> Command: about
 
-[2020-05-18 11:02:51]: LOG [SYSTEM] Loading Command: announce.js
+> Command: announce
 
-[2020-05-18 11:02:51]: LOG [SYSTEM] Loading Command: ba.js
+> Command: ba
 
-[2020-05-18 11:02:51]: LOG [SYSTEM] Loading Command: blacklist.js
+> Command: blacklist
 
-[2020-05-18 11:02:51]: LOG [SYSTEM] Loading Command: bug.js
+> Command: bug
 
-[2020-05-18 11:02:51]: LOG [SYSTEM] Loading Command: embed.js
+> Command: embed
 
-[2020-05-18 11:02:51]: LOG [SYSTEM] Loading Command: help.js
+> Command: help
 
-[2020-05-18 11:02:51]: LOG [SYSTEM] Loading Command: inspector.js
+> Command: inspector
 
-[2020-05-18 11:02:51]: LOG [SYSTEM] Loading Command: la.js
+> Command: la
 
-[2020-05-18 11:02:51]: LOG [SYSTEM] Loading Command: lobbymsg.js
+> Command: lobbymsg
 
-[2020-05-18 11:02:51]: LOG [SYSTEM] Loading Command: reboot.js
+> Command: reboot
 
-[2020-05-18 11:02:51]: LOG [SYSTEM] Loading Command: set.js
+> Command: set
 
-[2020-05-18 11:02:51]: LOG [SYSTEM] Loading Command: ticket.js
+> Command: ticket
 
-[2020-05-18 11:02:51]: LOG [SYSTEM] Loading Command: whois.js
+> Command: whois
 
 
-## Welcome to the **Lobby Finder Bot** wiki!
-> This wiki is the main source of documentation for developers working with (or contributing to) the Lobby Finder Bot, and for users who are trying to get more information about it. If this is your first time hearing about Lobby Finder Bot, we recommend giving this wiki a good look over.
-> 
 > ### Questions or need help?
 > Check out our [Contact Us](https://github.com/LobbyFinderBot/lobbyfinderbot.github.io/wiki/Contact-Us) page for different ways of getting in touch.
