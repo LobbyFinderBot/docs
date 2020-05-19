@@ -71,45 +71,45 @@
 
 
 
-## [PARTY] [COMMANDS: 18]
+## Lobby Commands: [18]
 
-Command: color
+> Command: color
 
-Command: ctl
+> Command: ctl
 
-Command: demote
+> Command: demote
 
-Command: global
+> Command: global
 
-Command: info
+> Command: info
 
-Command: invite
+> Command: invite
 
-Command: join
+> Command: join
 
-Command: kick
+> Command: kick
 
-Command: link
+> Command: link
 
-Command: list
+> Command: list
 
-Command: lock
+> Command: lock
 
-Command: name
+> Command: name
 
-Command: owner
+> Command: owner
 
-Command: party
+> Command: party
 
-Command: promote
+> Command: promote
 
-Command: sudo
+> Command: sudo
 
-Command: unlink
+> Command: unlink
 
-Command: unlock
+> Command: unlock
 
-## [SYSTEM] [COMMANDS: 18]
+## System Commands: [18]
 
 > Command: about
 
