@@ -60,13 +60,13 @@
 
 > Command: `$info`
 > 
-> Description: Return general information about your party, like members, creation date and ID. To get information about another user, use the whois command.
+> Description: Return general information about your lobby, like members, creation date and ID. To get information about another user, use the whois command.
 > 
 > Usage: $info || ctl -i
 
 > Command: `$invite`
 > 
-> Description: Invite other users to your lobby. They have to accept the invite before they will be added to your party
+> Description: Invite other users to your lobby. They have to accept the invite before they will be added to your lobby
 > 
 > Usage: $invite @User
 
@@ -90,7 +90,7 @@
 
 > Command: `$list`
 > 
-> Description: Lobby list command. Returns an overview of all currently open parties on this guild.
+> Description: Lobby list command. Returns an overview of all currently open lobbies on this guild.
 > 
 > Usage: $list | ctl -l
 
@@ -138,55 +138,85 @@
 > 
 > Usage 5: $sudo -ul @User | Fetch Information about a certain user. Returns Lobby Name and ID.
 
-> Command: $unlink
+> Command: `$unlink`
 > 
-
-> Command: unlock
+> Description: Unlink your lobby.
 > 
+> Usage: $unlink
 
-## System Commands: [18]
-
-> Command: $about
+> Command: `unlock`
 > 
-
-> Command: $announce
+> Description: Toggle the privacy setting of your lobby.
 > 
+> Usage: $lock/unlock | ctl -u
 
-> Command: $ba
+## System Commands: [11]
+
+> Command: `$about`
 > 
-
-> Command: $blacklist
+> Description: Show information about this Bot.
 > 
+> Usage: $about
 
-> Command: $bug
->
-
-> Command: $embed
+> Command: `$ba`
 > 
-
-> Command: $help
+> Description: Manage open bugs.
 > 
+> Usage: $ba list, ba setactive ID, ba close ID
 
-> Command: $inspector
+> Command: `$blacklist`
 > 
+> Description: Blacklist channels from commands.
+> 
+> Usage: $blacklist | Just run it in the channel that you want to add to the blacklist.
 
-> Command: $la
+> Command: `$bug`
 > 
+> Description: Reports a bug to the developer(s).
+> 
+> Usage: $bug
 
-> Command: $lobbymsg
+> Command: `$help`
 > 
+> Description: Display available commands and their usage.
+> 
+> Usage: $help
 
-> Command: $reboot
+> Command: `$inspector`
 > 
+> Description: Runs a check on your guild configuration and tells you what could be improved.
+> 
+> Usage: $inspector || sysctl -i
 
-> Command: $set
+> Command: `$la`
 > 
+> Description: Returns your current permission level.
+> 
+> Usage: $la, || ctl -la
 
-> Command: $ticket
+> Command: `$lobbymsg`
 > 
+> Description: Post an embed of open lobbies.
+> 
+> Usage: $lobbymsg <Channel ID>
 
-> Command: $whois
+> Command: `$reboot`
 > 
+> Description: Shuts down the bot. If running under PM2, bot will restart automatically.
+> 
+> Usage: $reboot
+
+> Command: `$set`
+> 
+> Description: View or change settings for your server.
+> 
+> Usage: $set <setting> <value>
+
+> Command: `$whois`
+> 
+> Description: Display information about a mentioned user.
+> 
+> Usage: $whois @someone
 
 ### Questions or need help?
 > Check out our [Contact Us](https://github.com/LobbyFinderBot/lobbyfinderbot.github.io/wiki/Contact-Us) page for different ways of getting in touch.
