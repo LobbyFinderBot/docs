@@ -71,37 +71,77 @@
 
 
 
-[2020-05-18 11:02:51]: LOG [CATGEORY] [PARTY] [COMMANDS: 18]
+## [PARTY] [COMMANDS: 18]
+
 [2020-05-18 11:02:51]: LOG [PARTY] Loading Command: color.js
+
 [2020-05-18 11:02:51]: LOG [PARTY] Loading Command: ctl.js
+
 [2020-05-18 11:02:51]: LOG [PARTY] Loading Command: demote.js
+
 [2020-05-18 11:02:51]: LOG [PARTY] Loading Command: global.js
+
 [2020-05-18 11:02:51]: LOG [PARTY] Loading Command: info.js
+
 [2020-05-18 11:02:51]: LOG [PARTY] Loading Command: invite.js
+
 [2020-05-18 11:02:51]: LOG [PARTY] Loading Command: join.js
+
 [2020-05-18 11:02:51]: LOG [PARTY] Loading Command: kick.js
+
 [2020-05-18 11:02:51]: LOG [PARTY] Loading Command: link.js
+
 [2020-05-18 11:02:51]: LOG [PARTY] Loading Command: list.js
+
 [2020-05-18 11:02:51]: LOG [PARTY] Loading Command: lock.js
+
 [2020-05-18 11:02:51]: LOG [PARTY] Loading Command: name.js
+
 [2020-05-18 11:02:51]: LOG [PARTY] Loading Command: owner.js
+
 [2020-05-18 11:02:51]: LOG [PARTY] Loading Command: party.js
+
 [2020-05-18 11:02:51]: LOG [PARTY] Loading Command: promote.js
+
 [2020-05-18 11:02:51]: LOG [PARTY] Loading Command: sudo.js
+
 [2020-05-18 11:02:51]: LOG [PARTY] Loading Command: unlink.js
+
 [2020-05-18 11:02:51]: LOG [PARTY] Loading Command: unlock.js
+
 [2020-05-18 11:02:51]: LOG [CATGEORY] [SYSTEM] [COMMANDS: 18]
+
 [2020-05-18 11:02:51]: LOG [SYSTEM] Loading Command: about.js
+
 [2020-05-18 11:02:51]: LOG [SYSTEM] Loading Command: announce.js
+
 [2020-05-18 11:02:51]: LOG [SYSTEM] Loading Command: ba.js
+
 [2020-05-18 11:02:51]: LOG [SYSTEM] Loading Command: blacklist.js
+
 [2020-05-18 11:02:51]: LOG [SYSTEM] Loading Command: bug.js
+
 [2020-05-18 11:02:51]: LOG [SYSTEM] Loading Command: embed.js
+
 [2020-05-18 11:02:51]: LOG [SYSTEM] Loading Command: help.js
+
 [2020-05-18 11:02:51]: LOG [SYSTEM] Loading Command: inspector.js
+
 [2020-05-18 11:02:51]: LOG [SYSTEM] Loading Command: la.js
+
 [2020-05-18 11:02:51]: LOG [SYSTEM] Loading Command: lobbymsg.js
+
 [2020-05-18 11:02:51]: LOG [SYSTEM] Loading Command: reboot.js
+
 [2020-05-18 11:02:51]: LOG [SYSTEM] Loading Command: set.js
+
 [2020-05-18 11:02:51]: LOG [SYSTEM] Loading Command: ticket.js
+
 [2020-05-18 11:02:51]: LOG [SYSTEM] Loading Command: whois.js
+
+
+## Welcome to the **Lobby Finder Bot** wiki!
+> This wiki is the main source of documentation for developers working with (or contributing to) the Lobby Finder Bot, and for users who are trying to get more information about it. If this is your first time hearing about Lobby Finder Bot, we recommend giving this wiki a good look over.
+> 
+> ### Questions or need help?
+> Check out our [Contact Us](https://github.com/LobbyFinderBot/lobbyfinderbot.github.io/wiki/Contact-Us) page for different ways of getting in touch.
