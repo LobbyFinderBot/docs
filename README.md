@@ -31,27 +31,23 @@
 > the bot into your server today!
 
 ## Premium Version:
-> Since the very beginning we have been helping Discord server owners
-> and users connect with one another in a whole new way. You can create
-> text and voice channel lobbies directly in Discord without the need
-> for a bunch of predefined channels for free.
+> Since the very beginning, we have been helping Discord server owners and users connect with one another in a whole new way. You can create text and voice channel lobbies directly in Discord without the need for a bunch of predefined channels for free.
 > 
-> To keep our bot and server updated as much as possible, we need
-> developers, which can cost quite a bit of money. The bot also needs a
-> hosting provider which is a monthly fee, so to combat this we have
-> added in a few sweet features for our premium version of the bot. This
-> is not required to use the bot, but it does give you a few extra perks
-> which are listed below.
+> To keep our bot and server updated as much as possible, we need developers, which can cost quite a bit of money. The bot also needs a hosting provider which is a monthly fee, so to combat this we have added in a few sweet features for our premium version of the bot. This is not required to use the bot, but it does give you a few extra perks which are listed below.
 > 
->  - **Custom Lobby Names**  - Users can change their lobby name using the    name command inside their lobby.
->  - **Custom Lobby Colors** - Users can change their lobby embed color using    the color command inside their lobby.
->  - **Global Lobby Linking** - Users can link their lobby to another lobby on    your server or other premium servers from around the
-> world.
->  - **Lobby Limit Increase** - All lobbies will increase their maximum    members allowed to 10 members for every new lobby.
->  - **Custom Bot Colors** - Server owners can change the main embed color    using the set command inside their server.
- 
-*All premium upgrades are intended for server owners to purchase for their own servers. If you are just looking to use the bot inside a server, it is absolutely free!*
+> **Custom Lobby Names** - Users can change their lobby names using the name command inside their lobby.
+> 
+> **Custom Lobby Colors** - Users can change their lobby embed color using the color command inside their lobby.
+> 
+> **Global Lobby Linking** - Users can link their lobby to another lobby on your server or other premium servers from around the world.
+> 
+> **Lobby Limit Increase** - All lobbies will increase their maximum members allowed to 10 members for every new lobby.
+> 
+> **Custom Bot Colors** - Server owners can change the main embed color using the set command inside their server.
+> 
+> [UPGRADE NOW](https://www.patreon.com/lobbyfinder)
 
+_* All premium upgrades are intended for server owners to purchase for their own servers. If you are just looking to use the bot inside a server, it is absolutely free!_
 ## Commands:
 
 ### Lobby Commands:
