@@ -51,71 +51,106 @@ _* All premium upgrades are intended for server owners to purchase for their own
 
 ## Lobby Commands: [18]
 
-> Command: color
+> Command: $color
+> Description: Change the default color of your lobby.
+> Usage: $color
 
-> Command: ctl
+> Command: $ctl
+> Description: Central Lobby control command.
+> Usage: $ctl -flag || To see available flags, run ctl -h
 
-> Command: demote
+> Command: $demote
+> Description: Demote Lobby Members.
+> Usage: $demote @User
 
-> Command: global
+> Command: $global
+> 
 
-> Command: info
+> Command: $info
+> 
 
-> Command: invite
+> Command: $invite
+> 
 
-> Command: join
+> Command: $join
+> 
 
-> Command: kick
+> Command: $kick
+> 
 
-> Command: link
+> Command: $link
+> 
 
-> Command: list
+> Command: $list
+> 
 
-> Command: lock
+> Command: $lock
+> 
 
-> Command: name
+> Command: $name
+> 
 
-> Command: owner
+> Command: $owner
+> 
 
-> Command: party
+> Command: $party
+> 
 
-> Command: promote
+> Command: $promote
+> 
 
-> Command: sudo
+> Command: $sudo
+> 
 
-> Command: unlink
+> Command: $unlink
+> 
 
 > Command: unlock
+> 
 
 ## System Commands: [18]
 
-> Command: about
+> Command: $about
+> 
 
-> Command: announce
+> Command: $announce
+> 
 
-> Command: ba
+> Command: $ba
+> 
 
-> Command: blacklist
+> Command: $blacklist
+> 
 
-> Command: bug
+> Command: $bug
+>
 
-> Command: embed
+> Command: $embed
+> 
 
-> Command: help
+> Command: $help
+> 
 
-> Command: inspector
+> Command: $inspector
+> 
 
-> Command: la
+> Command: $la
+> 
 
-> Command: lobbymsg
+> Command: $lobbymsg
+> 
 
-> Command: reboot
+> Command: $reboot
+> 
 
-> Command: set
+> Command: $set
+> 
 
-> Command: ticket
+> Command: $ticket
+> 
 
-> Command: whois
+> Command: $whois
+> 
 
 ### Questions or need help?
 > Check out our [Contact Us](https://github.com/LobbyFinderBot/lobbyfinderbot.github.io/wiki/Contact-Us) page for different ways of getting in touch.
