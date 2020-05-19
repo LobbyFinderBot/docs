@@ -126,12 +126,15 @@
 
 > Command: `$sudo`
 > Description: Lobby admin command. Use this to force add and remove users to and from lobbies. Also allows you to force close lobbies by ID.
-> Usage: 
-> $sudo -a -ID @User | Force add a user to a lobby.
-> $sudo -rm -ID @User | Force remove a user from a lobby.
-> $sudo -c -ID | Force close a lobby.
-> $sudo -l | List all open lobbies on this server.
-> $sudo -ul @User | Fetch Information about a certain user. Returns Lobby Name and ID.
+> Usage 1: $sudo -a -ID @User | Force add a user to a lobby.
+> 
+> Usage 2: $sudo -rm -ID @User | Force remove a user from a lobby.
+> 
+> Usage 3: $sudo -c -ID | Force close a lobby.
+> 
+> Usage 4: $sudo -l | List all open lobbies on this server.
+> 
+> Usage 5: $sudo -ul @User | Fetch Information about a certain user. Returns Lobby Name and ID.
 
 > Command: $unlink
 > 
