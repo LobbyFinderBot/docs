@@ -48,24 +48,6 @@
 > [UPGRADE NOW](https://www.patreon.com/lobbyfinder)
 
 _* All premium upgrades are intended for server owners to purchase for their own servers. If you are just looking to use the bot inside a server, it is absolutely free!_
-## Commands:
-
-### Lobby Commands:
-- lobby [no args]
-    -creates a new lobby for you
-- color (Premium) [no args]
-    -changes your lobbies default color
-- info [no args]
-    -display information about the lobby you are currently in
-- invite [@UserMention]
-    -invite friends to your lobby
-- join [@UserMention]
-    - sends a join request to the mentioned user.
-- list [no args] 
-    - list all currently active lobbies on this guild.
-
-
-
 
 ## Lobby Commands: [18]
 
@@ -134,7 +116,6 @@ _* All premium upgrades are intended for server owners to purchase for their own
 > Command: ticket
 
 > Command: whois
-
 
 ### Questions or need help?
 > Check out our [Contact Us](https://github.com/LobbyFinderBot/lobbyfinderbot.github.io/wiki/Contact-Us) page for different ways of getting in touch.
