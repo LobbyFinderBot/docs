@@ -140,5 +140,5 @@
 > Command: whois
 
 
-> ### Questions or need help?
+### Questions or need help?
 > Check out our [Contact Us](https://github.com/LobbyFinderBot/lobbyfinderbot.github.io/wiki/Contact-Us) page for different ways of getting in touch.
