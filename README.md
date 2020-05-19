@@ -52,15 +52,21 @@ _* All premium upgrades are intended for server owners to purchase for their own
 ## Lobby Commands: [18]
 
 > Command: $color
+> 
 > Description: Change the default color of your lobby.
+> 
 > Usage: $color
 
 > Command: $ctl
+> 
 > Description: Central Lobby control command.
+> 
 > Usage: $ctl -flag || To see available flags, run ctl -h
 
 > Command: $demote
+> 
 > Description: Demote Lobby Members.
+> 
 > Usage: $demote @User
 
 > Command: $global
