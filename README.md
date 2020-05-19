@@ -64,7 +64,6 @@
 > 
 > Usage: $info || ctl -i
 
-
 > Command: `$invite`
 > 
 > Description: Invite other users to your lobby. They have to accept the invite before they will be added to your party
@@ -83,29 +82,56 @@
 > 
 > Usage: $kick @User || ctl -k @User
 
-> Command: $link
+> Command: `$link`
 > 
+> Description: Link your lobby to other lobbies on other servers.
+> 
+> Usage: $link <LOBBYID> || => Get the other lobby ID by doing ctl -g
 
-> Command: $list
+> Command: `$list`
 > 
+> Description: Lobby list command. Returns an overview of all currently open parties on this guild.
+> 
+> Usage: $list | ctl -l
 
-> Command: $lock
+> Command: `$lock`
 > 
+> Description: Toggle the privacy setting of your lobby.
+> 
+> Usage: $lock/unlock || ctl -l
 
-> Command: $name
+> Command: `$name`
 > 
+> Description: Rename your lobby.
+> 
+> Usage: $name <Newname>
 
-> Command: $owner
+> Command: `$owner`
 > 
+> Description: Transfer ownership to one of your lobby members.
+> 
+> Usage: $owner @User || ctl -o @User
 
-> Command: $party
+> Command: `$lobby`
 > 
+> Description: Create a lobby and invite your friends.
+> 
+> Usage: $lobby - to create a lobby
 
-> Command: $promote
+> Command: `$promote`
 > 
+> Description: Promote a user to Co-Owner.
+> 
+> Usage: $promote @User || ctl -p @User
 
-> Command: $sudo
-> 
+> Command: `$sudo`
+> Description: Lobby admin command. Use this to force add and remove users to and from lobbies. Also allows you to force close lobbies by ID.
+> Usage: 
+> $sudo -a -ID @User | Force add a user to a lobby.
+> $sudo -rm -ID @User | Force remove a user from a lobby.
+> $sudo -c -ID | Force close a lobby.
+> $sudo -l | List all open lobbies on this server.
+> $sudo -ul @User | Fetch Information about a certain user. Returns Lobby Name and ID.
 
 > Command: $unlink
 > 
