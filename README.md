@@ -125,7 +125,9 @@
 > Usage: $promote @User || ctl -p @User
 
 > Command: `$sudo`
+> 
 > Description: Lobby admin command. Use this to force add and remove users to and from lobbies. Also allows you to force close lobbies by ID.
+> 
 > Usage 1: $sudo -a -ID @User | Force add a user to a lobby.
 > 
 > Usage 2: $sudo -rm -ID @User | Force remove a user from a lobby.
