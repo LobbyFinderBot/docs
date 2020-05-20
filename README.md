@@ -9,9 +9,11 @@
 > **Note:** The whitelist and setup commands requires you to have the `ADMINISTRATOR` permission. Make sure you have it.
 
 ## About:
-> Our bot will help your server users connect with other users in a whole new way. This is the closest you will get to a party or lobby system directly in your Discord server. After inviting the bot and finishing its simple setup, users can create a lobby which creates a new voice and text channel. The new channels are only visible by anyone invited to the lobby by its owner or co-owner. 
+> Our bot will help your discord server users connect with other users in a whole new way. This is the closest you will get to a party or lobby system directly in your Discord server. After inviting the bot and finishing its simple setup, users can create a lobby which creates a new voice and text channel. The new channels are only visible by anyone invited to the lobby by its owner or co-owner. 
 > 
 > Users are able to lock and unlock their lobby. They are able to join any open lobby using, and those lobbies get displayed in an automatically created channel. This is only scratching the surface of what our bot is capable of doing! So what are you waiting for, invite the bot into your server today!
+> 
+> Add Bot To Your Server: [INVITE NOW](http://invite.lobby-finder.com)
 
 ## Premium Version:
 > Since the very beginning, we have been helping Discord server owners and users connect with one another in a whole new way. You can create text and voice channel lobbies directly in Discord without the need for a bunch of predefined channels for free.
