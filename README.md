@@ -38,12 +38,14 @@ Users are able to lock and unlock their lobby. They are able to join any open lo
 | System Commands: | Short Descriptions: |
 | --- | ----------- |
 | **`$about`** | Show information about this Bot. |
+| **`$ba`** | Manage open bugs. |
 | **`$blacklist`** | Blacklist channels from commands. |
 | **`$bug`** | Reports a bug to the developer(s). |
 | **`$help`** | Display available commands and their usage. |
 | **`$inspector`** | Runs a check on your guilds configuration and tells you what could be improved. This command is used by server owners as a personal debugger |
 | **`$la`** | Returns your current permission level. |
 | **`$lobbymsg`** | Post an embed of open Lobbies. |
+| **`$reboot`** | Shuts down the bot. If running under PM2, bot will restart automatically. |
 | **`$set`** | View or change settings for your server. |
 | **`$whois`** | Display information about a mentioned user. |
 
