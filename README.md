@@ -3,14 +3,14 @@ Our bot will help your server users connect with other users in a whole new way.
 
 Users are able to lock and unlock their lobby. They are able to join any open lobby using, and those lobbies get displayed in an automatically created channel. This is only scratching the surface of what our bot is capable of doing! So what are you waiting for, invite the bot into your server today!
 
-> Add Bot To Your Server: [INVITE NOW](http://invite.lobby-finder.com)
+* Add Bot To Your Server: [INVITE NOW](http://invite.lobby-finder.com)
 
 # Setup Guides:
 **Automatic:** After inviting the bot, go into your bot-commands channel and run the command **`$whitelist`** in this very channel. By default every channel on the server is blacklisted from commands, so choose wisely, which channels you whitelist! Once you have whitelisted that channel run the automatic **`$setup`** command to finalize the setup of Lobby Finder bot.
 
 **Manual:**  If you don't want the bot to do all the work for you, run the setup command with the **`-m`** flag like this: **`$setup -m`**. The bot will then walk you through the setup process.
 
-> The whitelist and setup commands require you to have the **`ADMINISTRATOR`** permission. Make sure you have it before trying to setup the Bot otherwise no commands will work.
+* The whitelist and setup commands require you to have the **`MANAGE CHANNEL`** permission. Make sure you have it before trying the setup the Bot otherwise no commands will work.
 
 # All Bot Commands:
 | Lobby Commands: | Short Descriptions: |
@@ -54,7 +54,7 @@ Join our support server: [https://discord.gg/RYpVnUP](https://discord.gg/RYpVnUP
 
 ![](https://i.ibb.co/PFMh39D/join-discord-1-50.png)
 
-# Premium Version:
+# About Premium:
 To keep our bot and server updated as much as possible, we need developers, which can cost quite a bit of money. The bot also needs a hosting provider which is a monthly fee, so to combat this we have added in a few sweet features for our premium version of the bot. This is not required to use the bot, but it does give you a few extra perks which are listed below.
 
 * **Custom Lobby Names** - Users can change their lobby names using the name command inside their lobby.
@@ -67,6 +67,7 @@ To keep our bot and server updated as much as possible, we need developers, whic
 
 * **Custom Bot Colors** - Server owners can change the main embed color using the set command inside their server.
 
-> **Get These Extras Today:** [UPGRADE NOW](https://www.patreon.com/lobbyfinder)
+## Get These Extras Today:
+* [UPGRADE NOW](https://www.patreon.com/lobbyfinder)
 
 All premium upgrades are intended for server owners to purchase for their own servers. If you are just looking to use the bot inside a server, it is absolutely free!
