@@ -10,7 +10,7 @@ Users are able to lock and unlock their lobby. They are able to join any open lo
 
 **Manual:**  If you don't want the bot to do all the work for you, run the setup command with the **`-m`** flag like this: **`$setup -m`**. The bot will then walk you through the setup process.
 
-* The whitelist and setup commands require you to have the **`MANAGE CHANNEL`** permission. Make sure you have it before trying the setup the Bot otherwise no commands will work.
+* The whitelist and setup commands require you to have the **`MANAGE SERVER`** permission. Make sure you have it before trying the setup the Bot otherwise no commands will work.
 
 # All Bot Commands:
 | Lobby Commands: | Short Descriptions: |
